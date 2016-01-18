@@ -1,0 +1,8 @@
+---
+title: "Restaurant Reviews"
+type: "challenge"
+description: "Create a web application to review restaurants."
+visibility: "assign"
+tags: "system-check, rails"
+ignore:
+- "restaurant-reviews.md"
